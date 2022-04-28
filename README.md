@@ -6,11 +6,11 @@
 
 *Contributors:*  
 
-*Xige Huang:* *2nd MS student in Department of Statistical Science, Duke University*
+*Xige Huang:* *2nd year MS student in Department of Statistical Science, Duke University*
 
-*Gaojia Xu:*     *2nd MS student in Department of Statistical Science, Duke University*
+*Gaojia Xu:*     *2nd year MS student in Department of Statistical Science, Duke University*
 
-*Pu Zeng:*       *2nd MB student in Department of Biostatistics and Bioinformatics, Duke University*  
+*Pu Zeng:*       *2nd year MB student in Department of Biostatistics and Bioinformatics, Duke University*  
 
 
 
